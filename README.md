@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hilda, an <a href="https://www.linkedin.com/in/hilda-varrati-633394251/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Hilda, an <a href="https://www.linkedin.com/in/hilda-varrati">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/hilda-varrati-633394251
+[linkedin]: https://www.linkedin.com/in/hilda-varrati
